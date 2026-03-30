@@ -41,7 +41,6 @@ body {
 }
 
 .popular {
-  /* border: 2px solid #4f46e5; */
   border: 2px solid brown;
   transform: scale(1.05);
 }
@@ -51,7 +50,6 @@ body {
   top: -12px;
   left: 50%;
   transform: translateX(-50%);
-  /* background: #4f46e5; */
   background: brown;
   color: #fff;
   padding: 5px 12px;
@@ -86,7 +84,6 @@ ul li {
 .btn {
   display: inline-block;
   padding: 12px 25px;
-  /* background: #4f46e5; */
   background: darkred;
   color: #fff;
   border-radius: 6px;
