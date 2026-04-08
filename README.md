@@ -11,9 +11,11 @@ This project is a simple Recharge Plan Website built using only HTML and CSS. It
 * HTML5
 * CSS3
 ## Project Structure
-**recharge_plan/**
+**act4_recharge_plan-main**
 * index.html
 * style.css
+* README.md
+* LICENSE
 ## How to Run the Project
 1. Download or clone the repository: git clone https://github.com/AL-FAIZKHAN007/act4_recharge_plan.git
 2. Open the project folder
